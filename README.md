@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N280ejdxbHlndThkaTBwcWtscGF6dWp1dHE1ZHdyMWcwN21wMWt3YSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/JdQFsdoJBcHaPOANdK/giphy.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hello 👋, I'm Julian Cagadas</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
