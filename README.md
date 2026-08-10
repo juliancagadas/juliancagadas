@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Julian Cagadas</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-<img align="right" border-radius="10px" alt="Coding" width="400" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
+<img align="right" border-radius="10" alt="Coding" width="400" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
 
 - 🔭 I’m currently working on **Practice Systems**
 
