@@ -1,41 +1,22 @@
-<h1 align="center">Hello 👋, I'm Julian Cagadas</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
-<img align="right" border-radius="10" alt="Coding" width="400" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
+Hey there! 🙋‍♂️
 
-- 🔭 I’m currently working on **Practice Systems**
+I'm Miraya, a design engineer based in Germany.
 
-- 🌱 I’m currently learning **Front/Back-END**
+I design and build whatever I can imagine.
 
-- 💬 Ask me about **User Interface**
+If an idea pops into my head, chances are I'll build it and ship it.
 
-- 📫 How to reach me **juliannathanielcagadas@gmail.com**
+My main tech stack is react, typescript, tailwind, and framer motion. My favorite tools are figma, apple notes, and procreate on my iPad.
 
-- 📄 Know about my experiences [2D game, Bank System, Resto System]
+I've got a bunch of pinned projects, but my favorite is the Animo Scene Gallery.
 
-- ⚡ Fun fact **I can turn ☕ + late nights into working code.**
+I've built over 100 public repos, but privately, it's probably more than 200 at this point.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/juliannathanielcagadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juliannathanielcagadas" height="30" width="40" /></a>
-</p>
+If you want to learn how i do it, my books and course are available here!
 
----
+Fun Facts:
 
-## 📊 Activity & Statistics
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juliancagadas&theme=tokyo-night)](https://github.com/juliancagadas)
-
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=juliancagadas&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-![Streak](https://streak-stats.demolab.com?user=juliancagadas&theme=tokyonight&hide_border=true)
-
----
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliancagadas&layout=compact&theme=tokyonight&hide_border=true)
-
----
+- I have two cats
+- I don't like coffee or tea
+- Demon Slayer is my favorite anime
+- Hobbies: anime, gym, building things
