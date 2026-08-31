@@ -12,15 +12,21 @@ This profile is where I share the projects, experiments, and ideas I build along
 
 ### Tools & Tech
 
-- React, TypeScript, Tailwind  
-- Framer Motion for animations  
-- Figma, Apple Notes, Procreate
+- HTML, CSS, JavaScript
+- React, TypeScript
+- Java
+- MySQL
+- Git & GitHub
+- Responsive UI & Frontend Development
+- Figma for UI design
 
 ---
 
 ### A Bit About Me
 
-- 🐈 I have two cats 
-- 🍵 Not a coffee or tea person  
-- 🎴 Into anime — *Demon Slayer* is a favorite  
-- 🧱 I like building things that are simple, useful, and easy to understand
+- 💻 I enjoy building projects and learning by doing
+- 🧩 I like figuring out how things work, especially when something breaks
+- 🎮 I’m interested in game development and interactive projects
+- 🌐 I enjoy creating clean and responsive web interfaces
+- 🛠️ I prefer building things from scratch and improving them along the way
+- 📚 Always learning, experimenting, and trying something new
