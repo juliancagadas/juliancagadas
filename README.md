@@ -24,6 +24,7 @@ This profile is where I share the projects, experiments, and ideas I build along
 
 ### A Bit About Me
 
+- 🎣 Fishing is one of my favorite ways to unwind
 - 💻 I enjoy building projects and learning by doing
 - 🧩 I like figuring out how things work, especially when something breaks
 - 🎮 I’m interested in game development and interactive projects
