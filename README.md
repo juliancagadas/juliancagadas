@@ -14,7 +14,7 @@ This profile is where I share the projects, experiments, and ideas I build along
 
 - HTML, CSS, JavaScript
 - React, TypeScript
-- Java
+- Java, QBasic, Python
 - MySQL
 - Git & GitHub
 - Responsive UI & Frontend Development
