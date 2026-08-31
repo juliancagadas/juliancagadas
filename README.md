@@ -10,7 +10,7 @@ This profile is where I share the projects, experiments, and ideas I build along
 
 ---
 
-### Tools & Tech:
+### Tools & Tech :
 
 - HTML, CSS, JavaScript
 - React, TypeScript
@@ -22,7 +22,7 @@ This profile is where I share the projects, experiments, and ideas I build along
 
 ---
 
-### A Bit About Me:
+### A Bit About Me :
 
 - 🎣 Fishing is one of my favorite ways to unwind
 - 💻 I enjoy building projects and learning by doing
