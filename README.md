@@ -1,6 +1,6 @@
 ### Hey! Glad you're here!  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Julian Nathaniel, a Developer based in Philippines.
+I'm [Julian](https://github.com/juliancagadas), a Developer based in Philippines.
 
 I’m a developer who enjoys turning ideas into working projects — from responsive web interfaces and applications to automation and game development.
 
