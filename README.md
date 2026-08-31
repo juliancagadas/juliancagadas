@@ -1,22 +1,26 @@
-# Hey there! 💪
+### Hey there!  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [Miraya](https://github.com/username), a design engineer based in Germany.
+I'm Julian Nathaniel, a Developer based in Philippines.
 
-I design and build whatever I can imagine.
+I’m a developer who enjoys turning ideas into working projects — from responsive web interfaces and applications to automation and game development.
 
-If an idea pops into my head, chances are I'll build it and ship it.
+My main focus is web development using HTML, CSS, JavaScript, React, and TypeScript. I also work with Java, C, Python, MySQL, Git, and GitHub across different projects.
 
-My main tech stack is react, typescript, tailwind, and framer motion. My favorite tools are figma, apple notes, and procreate on my iPad.
+This profile is where I share the projects, experiments, and ideas I build along the way. I enjoy starting things from scratch, learning by building, and continuously improving how I write and structure my code.
 
-I've got a bunch of pinned projects, but my favorite is the [Animo Scene Gallery](https://github.com/username/animo-scene-gallery).
+---
 
-I've built over 100 public repos, but privately... it's probably more than 200 at this point.
+### Tools & Tech
 
-If you want to learn how I do it, [my books and course](https://example.com) are available here!
+- React, TypeScript, Tailwind  
+- Framer Motion for animations  
+- Figma, Apple Notes, Procreate
 
-## Fun Facts
+---
 
-- I have two cats
-- I don't like coffee or tea
-- Demon Slayer is my favorite anime
-- Hobbies: anime, gym, building things
+### A Bit About Me
+
+- 🐈 I have two cats 
+- 🍵 Not a coffee or tea person  
+- 🎴 Into anime — *Demon Slayer* is a favorite  
+- 🧱 I like building things that are simple, useful, and easy to understand
