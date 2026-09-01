@@ -4,7 +4,7 @@ I'm [Julian](https://github.com/juliancagadas), a Developer based in Philippines
 
 I’m a developer who enjoys turning ideas into working projects — from responsive web interfaces and applications to automation and game development.
 
-My main focus is web development using HTML, CSS, JavaScript, React, and TypeScript. I also work with Java, C, Python, MySQL, Git, and GitHub across different projects.
+My main focus is web development using HTML, CSS, JavaScript, React, and TypeScript. I also work with Java, PostgreSQL, MySQL, Git, and GitHub across different projects.
 
 This profile is where I share the projects, experiments, and ideas I build along the way. I enjoy starting things from scratch, learning by building, and continuously improving how I write and structure my code.
 
@@ -14,8 +14,8 @@ This profile is where I share the projects, experiments, and ideas I build along
 
 - HTML, CSS, JavaScript
 - React, TypeScript
-- Java, QBasic, Python
-- MySQL
+- Java
+- MySQL, PostgreSQL
 - Git & GitHub
 - Responsive UI & Frontend Development
 - Figma for UI design
