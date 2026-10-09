@@ -31,3 +31,10 @@ This profile is where I share the projects, experiments, and ideas I build along
 - 🌐 I enjoy creating clean and responsive web interfaces
 - 🛠️ I prefer building things from scratch and improving them along the way
 - 📚 Always learning, experimenting, and trying something new
+
+
+## GitHub Stats
+
+
+
+![Streak](https://streak-stats.demolab.com?user=juliancagadas&theme=tokyonight&hide_border=true)
