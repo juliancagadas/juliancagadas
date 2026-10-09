@@ -37,4 +37,6 @@ This profile is where I share the projects, experiments, and ideas I build along
 
 
 
-![Streak](https://streak-stats.demolab.com?user=juliancagadas&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=juliancagadas&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
