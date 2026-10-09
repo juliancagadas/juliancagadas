@@ -33,10 +33,8 @@ This profile is where I share the projects, experiments, and ideas I build along
 - 📚 Always learning, experimenting, and trying something new
 
 
-## GitHub Stats
-
-
+### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=juliancagadas&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=juliancagadas&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
